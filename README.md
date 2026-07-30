@@ -161,7 +161,7 @@ Converts footstep mechanical energy into usable electrical power using piezoelec
 <tr><th>🏅</th><th>Certification</th><th>Issued By</th></tr>
 <tr><td>🐍</td><td>Advanced Diploma in Python Programming (Grade A)</td><td>ADPP</td></tr>
 <tr><td>🤖</td><td>AI Domain Virtual Internship</td><td>Infosys Springboard</td></tr>
-<tr><td>☁️</td><td>Salesforce CRM & Cloud Platform Fundamentals</td><td>SimpliLearn</td></tr>
+<tr><td>☁️</td><td>Salesforce CRM & Cloud Platform Fundamentals</td><td>Simplilearn</td></tr>
 <tr><td>🧠</td><td>Fundamentals of Machine Learning and AI</td><td>AWS Training & Certification</td></tr>
 <tr><td>🔒</td><td>Cybersecurity Course Completion</td><td>Cisco</td></tr>
 </table>
