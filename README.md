@@ -1,42 +1,40 @@
-<div align="center">
+<img align="right" width="230" src="https://api.dicebear.com/9.x/notionists/png?seed=MadhanRam&backgroundColor=b6e3f4" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=220&section=header&text=Hey,%20I'm%20MadhanRam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turning%20circuits%20and%20code%20into%20working%20ideas&descAlignY=58&descSize=17" width="100%"/>
+# <mark>Electronics Engineering Student</mark> <mark>Backend Engineer in the Making</mark>
 
-<a href="https://linkedin.com/in/madhanram-m-1776a7379">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDAE&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Backend+%2F+Infra+Engineer+in+the+making;Java+%7C+SQL+%7C+AI+%2F+ML;Always+debugging+something+%F0%9F%94%A7" />
-</a>
+# MadhanRam M
+### aka Madhanram102
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Madhanram102&label=Profile%20Views&color=38BDAE&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Madhanram102?label=Followers&style=flat-square&color=38BDAE" />
-
-</div>
+Student at <img src="https://img.shields.io/badge/V.S.B_Engineering_College-CGPA_8.02-blue?style=flat-square" /> &nbsp; Building with <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 <br>
 
-## 🧭 Quick Facts
+<img src="https://komarev.com/ghpvc/?username=Madhanram102&label=visitors&color=38BDAE&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Madhanram102?label=Follow&style=social" />
 
-<table align="center">
-<tr>
-<td>
+<br><br>
 
-```yaml
-name: MadhanRam M
-based_in: Rameswaram, Tamil Nadu, India
-studying: B.E. Electronics & Communication Engineering
-college: V.S.B Engineering College, Karur (2023 - 2027)
-cgpa: 8.02
-looking_for: Backend / Infrastructure Engineering roles
-currently_exploring: System Design, Cloud, Scalable APIs
-reach_me: madhanramrmm@gmail.com
-```
+### Hey! 👋
 
-</td>
-</tr>
-</table>
+I'm MadhanRam M!
+
+- *Currently:* B.E. Electronics & Communication Engineering student at **V.S.B Engineering College, Karur** (2023 – 2027)
+- *Trained at:* **SkyPark iTech** — Robotics and IoT Trainee
+- *Based in:* Rameswaram, Tamil Nadu, India
+- *Looking for:* Backend / Infrastructure Engineering opportunities
 
 <br>
+
+### 🖥️ I'm Currently Learning
+
+**On my own time**
+- Backend & Infrastructure Engineering — System Design, Scalable APIs
+- Cloud Fundamentals — AWS Core Services
+- Advanced Database Design — Query Optimization, Data Pipelines
+
+<br clear="right"/>
+
+---
 
 ## ⚙️ What I Build With
 
